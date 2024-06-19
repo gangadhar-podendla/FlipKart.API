@@ -18,5 +18,10 @@ namespace FlipKart.API.Controllers
             return "helllo2";
 
         }
+        public string devolepment()
+        {
+            return "helllo2";
+
+        }
     }
 }
