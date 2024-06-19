@@ -12,5 +12,11 @@ namespace FlipKart.API.Controllers
             return "helllo";
 
         }
+        [HttpGet]
+        public string Get2()
+        {
+            return "helllo2";
+
+        }
     }
 }
